@@ -1,3 +1,5 @@
+.ssh
+
 # dev
 .yarn/
 !.yarn/releases
