@@ -1,0 +1,3 @@
+a.snehaa.store {
+    reverse_proxy web:3000
+}
