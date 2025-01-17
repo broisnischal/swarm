@@ -1,0 +1,8 @@
+services:
+  app:
+    image: neeswebservice/azure
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
